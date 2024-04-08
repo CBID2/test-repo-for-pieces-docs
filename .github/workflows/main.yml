@@ -5,11 +5,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Get Vercel Deployment URL
+        id: vercel
+        run: echo "::set-output name=url::$(curl -s -X GET https://api.vercel.com/v5/now/deployments | jq -r '.deployments[0].url')"
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v11
         with:
           urls: |
-            https://docs.pieces.app
+            https://${{ steps.vercel.outputs.url }}
           budgetPath: ./budget.json # test performance budgets
           uploadArtifacts: true # save results as an action artifacts
           temporaryPublicStorage: true # upload lighthouse report to the temporary storage
