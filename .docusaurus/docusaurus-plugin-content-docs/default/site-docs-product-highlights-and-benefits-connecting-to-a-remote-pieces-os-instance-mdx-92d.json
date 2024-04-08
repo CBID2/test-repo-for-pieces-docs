@@ -1,0 +1,27 @@
+{
+  "id": "product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+  "title": "Connecting to a Remote Pieces OS Instance",
+  "description": "Utilize the Pieces for Developers VS Code extension in a remote development environment",
+  "source": "@site/docs/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+  "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Connecting to a Remote Pieces OS Instance",
+    "description": "Utilize the Pieces for Developers VS Code extension in a remote development environment"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Workflow Activity Stream",
+    "permalink": "/features/workflow-activity"
+  },
+  "next": {
+    "title": "In-Project Snippet Discovery",
+    "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery"
+  }
+}

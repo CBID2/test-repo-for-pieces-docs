@@ -1,0 +1,23 @@
+{
+  "id": "installation-getting-started/what-am-i-installing",
+  "title": "Getting Started",
+  "description": "Learn what is included in the installation files and find the right set of instructions for your operating system.",
+  "source": "@site/docs/installation-getting-started/what-am-i-installing.mdx",
+  "sourceDirName": "installation-getting-started",
+  "slug": "/installation-getting-started/what-am-i-installing",
+  "permalink": "/installation-getting-started/what-am-i-installing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/what-am-i-installing.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started",
+    "description": "Learn what is included in the installation files and find the right set of instructions for your operating system."
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Getting Started with Pieces for Developers on macOS",
+    "permalink": "/installation-getting-started/macos"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/firefox",
+  "title": "Pieces Firefox Addon",
+  "description": "Learn about the Pieces Firefox Addon, how it functions, and what all you can do with this powerful addon in Mozilla Firefox.",
+  "source": "@site/docs/extensions-plugins/firefox.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/firefox",
+  "permalink": "/extensions-plugins/firefox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/firefox.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces Firefox Addon",
+    "description": "Learn about the Pieces Firefox Addon, how it functions, and what all you can do with this powerful addon in Mozilla Firefox."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Edge Addon",
+    "permalink": "/extensions-plugins/edge"
+  },
+  "next": {
+    "title": "Pieces for Developers JetBrains Plugin",
+    "permalink": "/extensions-plugins/jetbrains"
+  }
+}

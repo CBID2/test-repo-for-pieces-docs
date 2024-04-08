@@ -1,0 +1,27 @@
+{
+  "id": "features/one-click-snippet-sharing",
+  "title": "One-Click Snippet Sharing",
+  "description": "Developers, Technical Writers, Instructors, and many others constantly share developer materials, but adding in relevant context makes this engagement much more impactful.",
+  "source": "@site/docs/features/one-click-snippet-sharing.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/one-click-snippet-sharing",
+  "permalink": "/features/one-click-snippet-sharing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/one-click-snippet-sharing.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "One-Click Snippet Sharing",
+    "description": "Developers, Technical Writers, Instructors, and many others constantly share developer materials, but adding in relevant context makes this engagement much more impactful."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Managing Saved Materials",
+    "permalink": "/features/managing-saved-materials"
+  },
+  "next": {
+    "title": "Pieces Copilot",
+    "permalink": "/features/pieces-copilot"
+  }
+}

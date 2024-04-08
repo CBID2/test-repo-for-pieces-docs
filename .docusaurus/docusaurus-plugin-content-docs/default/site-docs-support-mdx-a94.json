@@ -1,0 +1,28 @@
+{
+  "id": "support",
+  "title": "Support",
+  "description": "Pieces for Developers Support",
+  "source": "@site/docs/support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/support.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Support",
+    "description": "Pieces for Developers Support",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Community",
+    "permalink": "/community"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/faq"
+  }
+}

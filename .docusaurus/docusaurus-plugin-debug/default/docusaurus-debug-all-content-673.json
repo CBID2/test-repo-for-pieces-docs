@@ -1,0 +1,1527 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs",
+          "editUrlLocalized": "https://github.com/pieces-app/documentation/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/workspace/test-repo-for-pieces-docs/sidebars.ts",
+          "contentPath": "/workspace/test-repo-for-pieces-docs/docs",
+          "contentPathLocalized": "/workspace/test-repo-for-pieces-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "community",
+              "title": "Community",
+              "description": "We're an early-stage software company on a mission to boost developer productivity and facilitate seamless workflows across a project's life cycle. Here are a few ways you can help us shape our vision!",
+              "source": "@site/docs/community.mdx",
+              "sourceDirName": ".",
+              "slug": "/community",
+              "permalink": "/community",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/community.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Community",
+                "description": "We're an early-stage software company on a mission to boost developer productivity and facilitate seamless workflows across a project's life cycle. Here are a few ways you can help us shape our vision!",
+                "hide_table_of_contents": true
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Context in Collaborative Environments",
+                "permalink": "/use-cases/resurfacing-additional-context"
+              },
+              "next": {
+                "title": "Support",
+                "permalink": "/support"
+              }
+            },
+            {
+              "id": "extensions-plugins/azure-data-studio",
+              "title": "Pieces for Developers Azure Data Studio Extension",
+              "description": "Learn about the Pieces Azure Data Studio Extension, how it functions, and all you can do with this powerful extension in ADS from Microsoft.",
+              "source": "@site/docs/extensions-plugins/azure-data-studio.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/azure-data-studio",
+              "permalink": "/extensions-plugins/azure-data-studio",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/azure-data-studio.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Azure Data Studio Extension",
+                "description": "Learn about the Pieces Azure Data Studio Extension, how it functions, and all you can do with this powerful extension in ADS from Microsoft."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Visual Studio Extension",
+                "permalink": "/extensions-plugins/visual-studio"
+              },
+              "next": {
+                "title": "Pieces for Developers Obsidian Plugin",
+                "permalink": "/extensions-plugins/obsidian"
+              }
+            },
+            {
+              "id": "extensions-plugins/chrome",
+              "title": "Pieces for Developers Chrome Extension",
+              "description": "Learn about the Pieces Chrome Extension, how it functions, and what all you can do with this powerful extension in Chrome.",
+              "source": "@site/docs/extensions-plugins/chrome.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/chrome",
+              "permalink": "/extensions-plugins/chrome",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/chrome.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Chrome Extension",
+                "description": "Learn about the Pieces Chrome Extension, how it functions, and what all you can do with this powerful extension in Chrome."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Getting Started with Pieces for Developers on Linux",
+                "permalink": "/installation-getting-started/linux"
+              },
+              "next": {
+                "title": "Pieces for Developers Edge Addon",
+                "permalink": "/extensions-plugins/edge"
+              }
+            },
+            {
+              "id": "extensions-plugins/edge",
+              "title": "Pieces for Developers Edge Addon",
+              "description": "Troubleshoot issues before reaching out to Pieces support to get assistance with the Pieces for Developers Edge Addon.",
+              "source": "@site/docs/extensions-plugins/edge.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/edge",
+              "permalink": "/extensions-plugins/edge",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/edge.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Edge Addon",
+                "description": "Troubleshoot issues before reaching out to Pieces support to get assistance with the Pieces for Developers Edge Addon."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Chrome Extension",
+                "permalink": "/extensions-plugins/chrome"
+              },
+              "next": {
+                "title": "Pieces Firefox Addon",
+                "permalink": "/extensions-plugins/firefox"
+              }
+            },
+            {
+              "id": "extensions-plugins/firefox",
+              "title": "Pieces Firefox Addon",
+              "description": "Learn about the Pieces Firefox Addon, how it functions, and what all you can do with this powerful addon in Mozilla Firefox.",
+              "source": "@site/docs/extensions-plugins/firefox.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/firefox",
+              "permalink": "/extensions-plugins/firefox",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/firefox.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces Firefox Addon",
+                "description": "Learn about the Pieces Firefox Addon, how it functions, and what all you can do with this powerful addon in Mozilla Firefox."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Edge Addon",
+                "permalink": "/extensions-plugins/edge"
+              },
+              "next": {
+                "title": "Pieces for Developers JetBrains Plugin",
+                "permalink": "/extensions-plugins/jetbrains"
+              }
+            },
+            {
+              "id": "extensions-plugins/jetbrains",
+              "title": "Pieces for Developers JetBrains Plugin",
+              "description": "Troubleshoot issues on your own before reaching out to Pieces support to get assistance with the Pieces for Developers JetBrains Plugin.",
+              "source": "@site/docs/extensions-plugins/jetbrains.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/jetbrains",
+              "permalink": "/extensions-plugins/jetbrains",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/jetbrains.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers JetBrains Plugin",
+                "description": "Troubleshoot issues on your own before reaching out to Pieces support to get assistance with the Pieces for Developers JetBrains Plugin."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces Firefox Addon",
+                "permalink": "/extensions-plugins/firefox"
+              },
+              "next": {
+                "title": "Pieces for Developers Visual Studio Code Extension",
+                "permalink": "/extensions-plugins/vscode"
+              }
+            },
+            {
+              "id": "extensions-plugins/jupyterlab",
+              "title": "Pieces for Developers JupyterLab Extension",
+              "description": "Learn how to install the Pieces for JupyterLab Extension via the PYPI Manager, Pip, and Conda.",
+              "source": "@site/docs/extensions-plugins/jupyterlab.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/jupyterlab",
+              "permalink": "/extensions-plugins/jupyterlab",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/jupyterlab.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers JupyterLab Extension",
+                "description": "Learn how to install the Pieces for JupyterLab Extension via the PYPI Manager, Pip, and Conda."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Obsidian Plugin",
+                "permalink": "/extensions-plugins/obsidian"
+              },
+              "next": {
+                "title": "Pieces Microsoft Teams App",
+                "permalink": "/extensions-plugins/teams"
+              }
+            },
+            {
+              "id": "extensions-plugins/obsidian",
+              "title": "Pieces for Developers Obsidian Plugin",
+              "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Obsidian Plugin.",
+              "source": "@site/docs/extensions-plugins/obsidian.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/obsidian",
+              "permalink": "/extensions-plugins/obsidian",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/obsidian.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Obsidian Plugin",
+                "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Obsidian Plugin."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Azure Data Studio Extension",
+                "permalink": "/extensions-plugins/azure-data-studio"
+              },
+              "next": {
+                "title": "Pieces for Developers JupyterLab Extension",
+                "permalink": "/extensions-plugins/jupyterlab"
+              }
+            },
+            {
+              "id": "extensions-plugins/teams",
+              "title": "Pieces Microsoft Teams App",
+              "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Microsoft Teams App.",
+              "source": "@site/docs/extensions-plugins/teams.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/teams",
+              "permalink": "/extensions-plugins/teams",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/teams.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces Microsoft Teams App",
+                "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Microsoft Teams App."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers JupyterLab Extension",
+                "permalink": "/extensions-plugins/jupyterlab"
+              },
+              "next": {
+                "title": "Auto-Enrichment of Developer Materials",
+                "permalink": "/features/auto-enrichment"
+              }
+            },
+            {
+              "id": "extensions-plugins/visual-studio",
+              "title": "Pieces for Developers Visual Studio Extension",
+              "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Visual Studio Extension.",
+              "source": "@site/docs/extensions-plugins/visual-studio.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/visual-studio",
+              "permalink": "/extensions-plugins/visual-studio",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/visual-studio.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Visual Studio Extension",
+                "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Visual Studio Extension."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers Visual Studio Code Extension",
+                "permalink": "/extensions-plugins/vscode"
+              },
+              "next": {
+                "title": "Pieces for Developers Azure Data Studio Extension",
+                "permalink": "/extensions-plugins/azure-data-studio"
+              }
+            },
+            {
+              "id": "extensions-plugins/vscode",
+              "title": "Pieces for Developers Visual Studio Code Extension",
+              "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers VS Code Extension.",
+              "source": "@site/docs/extensions-plugins/vscode.mdx",
+              "sourceDirName": "extensions-plugins",
+              "slug": "/extensions-plugins/vscode",
+              "permalink": "/extensions-plugins/vscode",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/vscode.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces for Developers Visual Studio Code Extension",
+                "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers VS Code Extension."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces for Developers JetBrains Plugin",
+                "permalink": "/extensions-plugins/jetbrains"
+              },
+              "next": {
+                "title": "Pieces for Developers Visual Studio Extension",
+                "permalink": "/extensions-plugins/visual-studio"
+              }
+            },
+            {
+              "id": "faq",
+              "title": "Frequently Asked Questions",
+              "description": "Find answers to questions about using Pieces for Developers and its many functions.",
+              "source": "@site/docs/faq.mdx",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/faq",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/faq.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Frequently Asked Questions",
+                "description": "Find answers to questions about using Pieces for Developers and its many functions."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Support",
+                "permalink": "/support"
+              }
+            },
+            {
+              "id": "features/auto-enrichment",
+              "title": "Auto-Enrichment of Developer Materials",
+              "description": "Learn how Pieces for Developers uses ML and AI to enrich your code snippets with relevant context and metadata.",
+              "source": "@site/docs/features/auto-enrichment.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/auto-enrichment",
+              "permalink": "/features/auto-enrichment",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/auto-enrichment.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Auto-Enrichment of Developer Materials",
+                "description": "Learn how Pieces for Developers uses ML and AI to enrich your code snippets with relevant context and metadata."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces Microsoft Teams App",
+                "permalink": "/extensions-plugins/teams"
+              },
+              "next": {
+                "title": "Back Up and Restore",
+                "permalink": "/features/back-up-and-restore"
+              }
+            },
+            {
+              "id": "features/back-up-and-restore",
+              "title": "Back Up and Restore",
+              "description": "Learn how to back up and restore your Pieces Database without losing your code snippets.",
+              "source": "@site/docs/features/back-up-and-restore.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/back-up-and-restore",
+              "permalink": "/features/back-up-and-restore",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/back-up-and-restore.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Back Up and Restore",
+                "description": "Learn how to back up and restore your Pieces Database without losing your code snippets."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Auto-Enrichment of Developer Materials",
+                "permalink": "/features/auto-enrichment"
+              },
+              "next": {
+                "title": "Code Completion in your IDE",
+                "permalink": "/features/code-completion"
+              }
+            },
+            {
+              "id": "features/code-completion",
+              "title": "Code Completion in your IDE",
+              "description": "Use our code completion feature in your IDE to auto-complete code snippets from your own personal Pieces repository of developer materials.",
+              "source": "@site/docs/features/code-completion.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/code-completion",
+              "permalink": "/features/code-completion",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/code-completion.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Code Completion in your IDE",
+                "description": "Use our code completion feature in your IDE to auto-complete code snippets from your own personal Pieces repository of developer materials."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Back Up and Restore",
+                "permalink": "/features/back-up-and-restore"
+              },
+              "next": {
+                "title": "Snippet Creation and Generation",
+                "permalink": "/features/creation-and-generation"
+              }
+            },
+            {
+              "id": "features/creation-and-generation",
+              "title": "Snippet Creation and Generation",
+              "description": "Pieces for Developers makes it simple to add materials as you find them. But, sometimes the best solution is written or generated code instead of a more general solution.",
+              "source": "@site/docs/features/creation-and-generation.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/creation-and-generation",
+              "permalink": "/features/creation-and-generation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/creation-and-generation.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Snippet Creation and Generation",
+                "description": "Pieces for Developers makes it simple to add materials as you find them. But, sometimes the best solution is written or generated code instead of a more general solution."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Code Completion in your IDE",
+                "permalink": "/features/code-completion"
+              },
+              "next": {
+                "title": "Global Search",
+                "permalink": "/features/global-search"
+              }
+            },
+            {
+              "id": "features/global-search",
+              "title": "Global Search",
+              "description": "Use Global Search to discover saved snippets based on the problems they solve without mentioning the language or code syntax.",
+              "source": "@site/docs/features/global-search.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/global-search",
+              "permalink": "/features/global-search",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/global-search.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Global Search",
+                "description": "Use Global Search to discover saved snippets based on the problems they solve without mentioning the language or code syntax."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Snippet Creation and Generation",
+                "permalink": "/features/creation-and-generation"
+              },
+              "next": {
+                "title": "Keyboard Shortcuts",
+                "permalink": "/features/keyboard-shortcuts"
+              }
+            },
+            {
+              "id": "features/keyboard-shortcuts",
+              "title": "Keyboard Shortcuts",
+              "description": "View all shortcuts available in the Pieces for Developers Desktop App.",
+              "source": "@site/docs/features/keyboard-shortcuts.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/keyboard-shortcuts",
+              "permalink": "/features/keyboard-shortcuts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/keyboard-shortcuts.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Keyboard Shortcuts",
+                "description": "View all shortcuts available in the Pieces for Developers Desktop App."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Global Search",
+                "permalink": "/features/global-search"
+              },
+              "next": {
+                "title": "Managing Saved Materials",
+                "permalink": "/features/managing-saved-materials"
+              }
+            },
+            {
+              "id": "features/managing-saved-materials",
+              "title": "Managing Saved Materials",
+              "description": "Once you save a material, you can edit, rename, reclassify, and modify metadata to adjust it over time so you stay organized.",
+              "source": "@site/docs/features/managing-saved-materials.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/managing-saved-materials",
+              "permalink": "/features/managing-saved-materials",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/managing-saved-materials.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Managing Saved Materials",
+                "description": "Once you save a material, you can edit, rename, reclassify, and modify metadata to adjust it over time so you stay organized."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Keyboard Shortcuts",
+                "permalink": "/features/keyboard-shortcuts"
+              },
+              "next": {
+                "title": "One-Click Snippet Sharing",
+                "permalink": "/features/one-click-snippet-sharing"
+              }
+            },
+            {
+              "id": "features/one-click-snippet-sharing",
+              "title": "One-Click Snippet Sharing",
+              "description": "Developers, Technical Writers, Instructors, and many others constantly share developer materials, but adding in relevant context makes this engagement much more impactful.",
+              "source": "@site/docs/features/one-click-snippet-sharing.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/one-click-snippet-sharing",
+              "permalink": "/features/one-click-snippet-sharing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/one-click-snippet-sharing.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "One-Click Snippet Sharing",
+                "description": "Developers, Technical Writers, Instructors, and many others constantly share developer materials, but adding in relevant context makes this engagement much more impactful."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Managing Saved Materials",
+                "permalink": "/features/managing-saved-materials"
+              },
+              "next": {
+                "title": "Pieces Copilot",
+                "permalink": "/features/pieces-copilot"
+              }
+            },
+            {
+              "id": "features/pieces-copilot",
+              "title": "Pieces Copilot",
+              "description": "Describe code and the Pieces Copilot will generate it for you, or ask qGPT questions about code you have already saved.",
+              "source": "@site/docs/features/pieces-copilot.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/pieces-copilot",
+              "permalink": "/features/pieces-copilot",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/pieces-copilot.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Pieces Copilot",
+                "description": "Describe code and the Pieces Copilot will generate it for you, or ask qGPT questions about code you have already saved."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "One-Click Snippet Sharing",
+                "permalink": "/features/one-click-snippet-sharing"
+              },
+              "next": {
+                "title": "Search Modes",
+                "permalink": "/features/search-modes"
+              }
+            },
+            {
+              "id": "features/search-modes",
+              "title": "Search Modes",
+              "description": "Use different search modes to accurately search and find the code snippets that you are looking for.",
+              "source": "@site/docs/features/search-modes.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/search-modes",
+              "permalink": "/features/search-modes",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/search-modes.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Search Modes",
+                "description": "Use different search modes to accurately search and find the code snippets that you are looking for."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Pieces Copilot",
+                "permalink": "/features/pieces-copilot"
+              },
+              "next": {
+                "title": "Transforming Snippets",
+                "permalink": "/features/transforming-snippets"
+              }
+            },
+            {
+              "id": "features/transforming-snippets",
+              "title": "Transforming Snippets",
+              "description": "With transformations, you can save even more time while coding. Transformations can convert languages, improve code readability and performance, and create boilerplate templates.",
+              "source": "@site/docs/features/transforming-snippets.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/transforming-snippets",
+              "permalink": "/features/transforming-snippets",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/transforming-snippets.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Transforming Snippets",
+                "description": "With transformations, you can save even more time while coding. Transformations can convert languages, improve code readability and performance, and create boilerplate templates."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Search Modes",
+                "permalink": "/features/search-modes"
+              },
+              "next": {
+                "title": "User Settings",
+                "permalink": "/features/user-settings"
+              }
+            },
+            {
+              "id": "features/user-settings",
+              "title": "User Settings",
+              "description": "You can customize your experience while using Pieces for Developers with different combinations in the Settings menu.",
+              "source": "@site/docs/features/user-settings.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/user-settings",
+              "permalink": "/features/user-settings",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/user-settings.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "User Settings",
+                "description": "You can customize your experience while using Pieces for Developers with different combinations in the Settings menu."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Transforming Snippets",
+                "permalink": "/features/transforming-snippets"
+              },
+              "next": {
+                "title": "Workflow Activity Stream",
+                "permalink": "/features/workflow-activity"
+              }
+            },
+            {
+              "id": "features/workflow-activity",
+              "title": "Workflow Activity Stream",
+              "description": "Pick up where you left off and break through development bottlenecks faster with Workflow Activity Stream.",
+              "source": "@site/docs/features/workflow-activity.mdx",
+              "sourceDirName": "features",
+              "slug": "/features/workflow-activity",
+              "permalink": "/features/workflow-activity",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/workflow-activity.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Workflow Activity Stream",
+                "description": "Pick up where you left off and break through development bottlenecks faster with Workflow Activity Stream."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "User Settings",
+                "permalink": "/features/user-settings"
+              },
+              "next": {
+                "title": "Connecting to a Remote Pieces OS Instance",
+                "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Docs",
+              "description": "Learn how to best use and optimize your workflow with Pieces for Developers! Read the sections in sequential order or click the links in the navigation on the right to get directly to the topic you need.",
+              "source": "@site/docs/index.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/index.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Docs",
+                "description": "Learn how to best use and optimize your workflow with Pieces for Developers! Read the sections in sequential order or click the links in the navigation on the right to get directly to the topic you need.",
+                "hide_title": true,
+                "hide_table_of_contents": true
+              }
+            },
+            {
+              "id": "installation-getting-started/linux",
+              "title": "Getting Started with Pieces for Developers on Linux",
+              "description": "Learn how to install Pieces for Developers via Snapcraft or by using Shell/Bash commands on your Linux distro.",
+              "source": "@site/docs/installation-getting-started/linux.mdx",
+              "sourceDirName": "installation-getting-started",
+              "slug": "/installation-getting-started/linux",
+              "permalink": "/installation-getting-started/linux",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/linux.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting Started with Pieces for Developers on Linux",
+                "description": "Learn how to install Pieces for Developers via Snapcraft or by using Shell/Bash commands on your Linux distro.",
+                "next": "/extensions-plugins/chrome",
+                "nextTitle": "Pieces Chrome Plugin"
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Getting Started with Pieces for Developers on Windows",
+                "permalink": "/installation-getting-started/windows"
+              },
+              "next": {
+                "title": "Pieces for Developers Chrome Extension",
+                "permalink": "/extensions-plugins/chrome"
+              }
+            },
+            {
+              "id": "installation-getting-started/macos",
+              "title": "Getting Started with Pieces for Developers on macOS",
+              "description": "Learn how to download, install, and confirm your connected applications on macOS to start using Pieces for Developers",
+              "source": "@site/docs/installation-getting-started/macos.mdx",
+              "sourceDirName": "installation-getting-started",
+              "slug": "/installation-getting-started/macos",
+              "permalink": "/installation-getting-started/macos",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/macos.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting Started with Pieces for Developers on macOS",
+                "description": "Learn how to download, install, and confirm your connected applications on macOS to start using Pieces for Developers"
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/installation-getting-started/what-am-i-installing"
+              },
+              "next": {
+                "title": "Getting Started with Pieces for Developers on Windows",
+                "permalink": "/installation-getting-started/windows"
+              }
+            },
+            {
+              "id": "installation-getting-started/pieces-os",
+              "title": "Understanding Pieces OS",
+              "description": "Delve into the engine that powers Pieces for Developers - Pieces OS. Explore how it manages data processing and machine learning models to enhance your development workflow.",
+              "source": "@site/docs/installation-getting-started/pieces-os.mdx",
+              "sourceDirName": "installation-getting-started",
+              "slug": "/installation-getting-started/pieces-os",
+              "permalink": "/installation-getting-started/pieces-os",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/pieces-os.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Understanding Pieces OS",
+                "description": "Delve into the engine that powers Pieces for Developers - Pieces OS. Explore how it manages data processing and machine learning models to enhance your development workflow.",
+                "next": "/extensions-plugins/chrome",
+                "nextTitle": "Check Out Our Chrome Plugin"
+              }
+            },
+            {
+              "id": "installation-getting-started/what-am-i-installing",
+              "title": "Getting Started",
+              "description": "Learn what is included in the installation files and find the right set of instructions for your operating system.",
+              "source": "@site/docs/installation-getting-started/what-am-i-installing.mdx",
+              "sourceDirName": "installation-getting-started",
+              "slug": "/installation-getting-started/what-am-i-installing",
+              "permalink": "/installation-getting-started/what-am-i-installing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/what-am-i-installing.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting Started",
+                "description": "Learn what is included in the installation files and find the right set of instructions for your operating system."
+              },
+              "sidebar": "docsSidebar",
+              "next": {
+                "title": "Getting Started with Pieces for Developers on macOS",
+                "permalink": "/installation-getting-started/macos"
+              }
+            },
+            {
+              "id": "installation-getting-started/windows",
+              "title": "Getting Started with Pieces for Developers on Windows",
+              "description": "Learn how to download, install, and confirm your connected applications on Windows - it only takes 3 steps!",
+              "source": "@site/docs/installation-getting-started/windows.mdx",
+              "sourceDirName": "installation-getting-started",
+              "slug": "/installation-getting-started/windows",
+              "permalink": "/installation-getting-started/windows",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/windows.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting Started with Pieces for Developers on Windows",
+                "description": "Learn how to download, install, and confirm your connected applications on Windows - it only takes 3 steps!"
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Getting Started with Pieces for Developers on macOS",
+                "permalink": "/installation-getting-started/macos"
+              },
+              "next": {
+                "title": "Getting Started with Pieces for Developers on Linux",
+                "permalink": "/installation-getting-started/linux"
+              }
+            },
+            {
+              "id": "new-to-pieces/how-our-search-works",
+              "title": "How Our Search and Sort Features Work",
+              "description": "Adjust Settings for Optimal Search Results",
+              "source": "@site/docs/new-to-pieces/how-our-search-works.mdx",
+              "sourceDirName": "new-to-pieces",
+              "slug": "/new-to-pieces/how-our-search-works",
+              "permalink": "/new-to-pieces/how-our-search-works",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/new-to-pieces/how-our-search-works.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "How Our Search and Sort Features Work",
+                "Description": "Pieces for Developers offers three ways to search within the Desktop App in order to quickly find what you need."
+              }
+            },
+            {
+              "id": "privacy-policy",
+              "title": "Privacy Policy",
+              "description": "View our privacy policy on your data and how it is stored locally on your device.",
+              "source": "@site/docs/privacy-policy.mdx",
+              "sourceDirName": ".",
+              "slug": "/privacy-policy",
+              "permalink": "/privacy-policy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/privacy-policy.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Privacy Policy",
+                "description": "View our privacy policy on your data and how it is stored locally on your device."
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/collections",
+              "title": "Code Snippet Collections",
+              "description": "Learn more about Pieces-curated collections of the most useful code snippets. Save Collections and snippets in your Pieces app and use later in your IDE.",
+              "source": "@site/docs/product-highlights-and-benefits/collections.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/collections",
+              "permalink": "/product-highlights-and-benefits/collections",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/collections.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Code Snippet Collections",
+                "description": "Learn more about Pieces-curated collections of the most useful code snippets. Save Collections and snippets in your Pieces app and use later in your IDE."
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+              "title": "Connecting to a Remote Pieces OS Instance",
+              "description": "Utilize the Pieces for Developers VS Code extension in a remote development environment",
+              "source": "@site/docs/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+              "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Connecting to a Remote Pieces OS Instance",
+                "description": "Utilize the Pieces for Developers VS Code extension in a remote development environment"
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Workflow Activity Stream",
+                "permalink": "/features/workflow-activity"
+              },
+              "next": {
+                "title": "In-Project Snippet Discovery",
+                "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery"
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/in-project-snippet-discovery",
+              "title": "In-Project Snippet Discovery",
+              "description": "The first developer tool in the world to ingest an entire code base and return hyper-specific, highly reusable code snippets entirely offline and on-device.",
+              "source": "@site/docs/product-highlights-and-benefits/in-project-snippet-discovery.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/in-project-snippet-discovery",
+              "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/in-project-snippet-discovery.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "In-Project Snippet Discovery",
+                "description": "The first developer tool in the world to ingest an entire code base and return hyper-specific, highly reusable code snippets entirely offline and on-device."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Connecting to a Remote Pieces OS Instance",
+                "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance"
+              },
+              "next": {
+                "title": "Privacy, Security & Your Data",
+                "permalink": "/product-highlights-and-benefits/privacy-security-data"
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/privacy-security-data",
+              "title": "Privacy, Security & Your Data",
+              "description": "Let's jump in and touch on privacy, data, cloud-based features, and our ML models.",
+              "source": "@site/docs/product-highlights-and-benefits/privacy-security-data.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/privacy-security-data",
+              "permalink": "/product-highlights-and-benefits/privacy-security-data",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/privacy-security-data.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Privacy, Security & Your Data",
+                "description": "Let's jump in and touch on privacy, data, cloud-based features, and our ML models."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "In-Project Snippet Discovery",
+                "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery"
+              },
+              "next": {
+                "title": "Sync Across Multiple Devices using GitHub",
+                "permalink": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github"
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-screenshots",
+              "title": "Saving Screenshots and Optical Code Recognition",
+              "description": "By saving media to the Pieces for Developers Desktop app, all of your screenshots and code can live side by side.",
+              "source": "@site/docs/product-highlights-and-benefits/saving-screenshots.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/saving-screenshots",
+              "permalink": "/product-highlights-and-benefits/saving-screenshots",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/saving-screenshots.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Saving Screenshots and Optical Code Recognition",
+                "description": "By saving media to the Pieces for Developers Desktop app, all of your screenshots and code can live side by side."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Save Useful Developer Materials",
+                "permalink": "/product-highlights-and-benefits/saving-useful-developer-materials"
+              },
+              "next": {
+                "title": "Countless Google Searches",
+                "permalink": "/use-cases/countless-google-searches"
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-to-and-from-github-gists",
+              "title": "Sharing To & From GitHub Gists",
+              "description": "GitHub Gists are a great way to share code with a group of people for public visibility, and integrate your snippets with your GitHub repositories.",
+              "source": "@site/docs/product-highlights-and-benefits/saving-to-and-from-github-gists.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/saving-to-and-from-github-gists",
+              "permalink": "/product-highlights-and-benefits/saving-to-and-from-github-gists",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/saving-to-and-from-github-gists.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Sharing To & From GitHub Gists",
+                "description": "GitHub Gists are a great way to share code with a group of people for public visibility, and integrate your snippets with your GitHub repositories."
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-useful-developer-materials",
+              "title": "Save Useful Developer Materials",
+              "description": "Drag images, files, and more directly into the Pieces for Developers Desktop App. Save all types of resources - and they will be available when you need them!",
+              "source": "@site/docs/product-highlights-and-benefits/saving-useful-developer-materials.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/saving-useful-developer-materials",
+              "permalink": "/product-highlights-and-benefits/saving-useful-developer-materials",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/saving-useful-developer-materials.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Save Useful Developer Materials",
+                "description": "Drag images, files, and more directly into the Pieces for Developers Desktop App. Save all types of resources - and they will be available when you need them!"
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Sync Across Multiple Devices using GitHub",
+                "permalink": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github"
+              },
+              "next": {
+                "title": "Saving Screenshots and Optical Code Recognition",
+                "permalink": "/product-highlights-and-benefits/saving-screenshots"
+              }
+            },
+            {
+              "id": "product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+              "title": "Sync Across Multiple Devices using GitHub",
+              "description": "Follow this guide to get started with manually syncing your code snippets on multiple devices, so you always have them.",
+              "source": "@site/docs/product-highlights-and-benefits/sync-across-multiple-devices-using-github.mdx",
+              "sourceDirName": "product-highlights-and-benefits",
+              "slug": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+              "permalink": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/sync-across-multiple-devices-using-github.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Sync Across Multiple Devices using GitHub",
+                "description": "Follow this guide to get started with manually syncing your code snippets on multiple devices, so you always have them."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Privacy, Security & Your Data",
+                "permalink": "/product-highlights-and-benefits/privacy-security-data"
+              },
+              "next": {
+                "title": "Save Useful Developer Materials",
+                "permalink": "/product-highlights-and-benefits/saving-useful-developer-materials"
+              }
+            },
+            {
+              "id": "resources",
+              "title": "Documentation & Resources",
+              "description": "Links to downloads, resources, and plugins with other information on Pieces for Developers",
+              "source": "@site/docs/resources.mdx",
+              "sourceDirName": ".",
+              "slug": "/resources",
+              "permalink": "/resources",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/resources.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Documentation & Resources",
+                "description": "Links to downloads, resources, and plugins with other information on Pieces for Developers"
+              }
+            },
+            {
+              "id": "support",
+              "title": "Support",
+              "description": "Pieces for Developers Support",
+              "source": "@site/docs/support.mdx",
+              "sourceDirName": ".",
+              "slug": "/support",
+              "permalink": "/support",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/support.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Support",
+                "description": "Pieces for Developers Support",
+                "hide_table_of_contents": true
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Community",
+                "permalink": "/community"
+              },
+              "next": {
+                "title": "Frequently Asked Questions",
+                "permalink": "/faq"
+              }
+            },
+            {
+              "id": "terms",
+              "title": "Terms of Service",
+              "description": "View our terms of service here to read about rules and informed use of services.",
+              "source": "@site/docs/terms.mdx",
+              "sourceDirName": ".",
+              "slug": "/terms",
+              "permalink": "/terms",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/terms.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Terms of Service",
+                "description": "View our terms of service here to read about rules and informed use of services."
+              }
+            },
+            {
+              "id": "use-cases/countless-google-searches",
+              "title": "Countless Google Searches",
+              "description": "Stop the constant switching and searching for the same thing twice with Pieces for Developers.",
+              "source": "@site/docs/use-cases/countless-google-searches.mdx",
+              "sourceDirName": "use-cases",
+              "slug": "/use-cases/countless-google-searches",
+              "permalink": "/use-cases/countless-google-searches",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/countless-google-searches.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Countless Google Searches",
+                "description": "Stop the constant switching and searching for the same thing twice with Pieces for Developers."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Saving Screenshots and Optical Code Recognition",
+                "permalink": "/product-highlights-and-benefits/saving-screenshots"
+              },
+              "next": {
+                "title": "Solving Onboarding & Reducing Technical Debt",
+                "permalink": "/use-cases/onboard-new-developers"
+              }
+            },
+            {
+              "id": "use-cases/onboard-new-developers",
+              "title": "Solving Onboarding & Reducing Technical Debt",
+              "description": "Utilize our On-Device Suggested Save and On-Device Pattern Engine to find and write code faster.",
+              "source": "@site/docs/use-cases/onboard-new-developers.mdx",
+              "sourceDirName": "use-cases",
+              "slug": "/use-cases/onboard-new-developers",
+              "permalink": "/use-cases/onboard-new-developers",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/onboard-new-developers.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Solving Onboarding & Reducing Technical Debt",
+                "description": "Utilize our On-Device Suggested Save and On-Device Pattern Engine to find and write code faster."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Countless Google Searches",
+                "permalink": "/use-cases/countless-google-searches"
+              },
+              "next": {
+                "title": "Context in Collaborative Environments",
+                "permalink": "/use-cases/resurfacing-additional-context"
+              }
+            },
+            {
+              "id": "use-cases/resurfacing-additional-context",
+              "title": "Context in Collaborative Environments",
+              "description": "Keeping track of critical context - decision outcomes, architectures, implementation solutions, best practices, power tips, configs - is becoming harder than ever.",
+              "source": "@site/docs/use-cases/resurfacing-additional-context.mdx",
+              "sourceDirName": "use-cases",
+              "slug": "/use-cases/resurfacing-additional-context",
+              "permalink": "/use-cases/resurfacing-additional-context",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/resurfacing-additional-context.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Context in Collaborative Environments",
+                "description": "Keeping track of critical context - decision outcomes, architectures, implementation solutions, best practices, power tips, configs - is becoming harder than ever."
+              },
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Solving Onboarding & Reducing Technical Debt",
+                "permalink": "/use-cases/onboard-new-developers"
+              },
+              "next": {
+                "title": "Community",
+                "permalink": "/community"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docsSidebar": [
+              {
+                "type": "category",
+                "label": "🛠️️ Installation",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "installation-getting-started/what-am-i-installing",
+                    "label": "Getting Started",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-getting-started/macos",
+                    "label": "macOS",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-getting-started/windows",
+                    "label": "Windows",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installation-getting-started/linux",
+                    "label": "Linux",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "🔌 Apps & Plugins",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/chrome",
+                    "label": "Chrome Extension",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/edge",
+                    "label": "Edge Addon",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/firefox",
+                    "label": "Firefox Addon",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/jetbrains",
+                    "label": "Jetbrains Plugin",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/vscode",
+                    "label": "VS Code Extension",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/visual-studio",
+                    "label": "Visual Studio Extension",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/azure-data-studio",
+                    "label": "Azure Data Studio",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/obsidian",
+                    "label": "Obsidian Plugin",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/jupyterlab",
+                    "label": "JupyterLab Extension",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extensions-plugins/teams",
+                    "label": "Microsoft Teams App",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "⚙️ Product Features",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "features/auto-enrichment",
+                    "label": "Auto Enrichment",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/back-up-and-restore",
+                    "label": "Back Up & Restore",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/code-completion",
+                    "label": "Code Completion",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/creation-and-generation",
+                    "label": "Creating & Generating Code",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/global-search",
+                    "label": "Global Search",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/keyboard-shortcuts",
+                    "label": "Keyboard Shortcuts",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/managing-saved-materials",
+                    "label": "Material Storage & Management",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/one-click-snippet-sharing",
+                    "label": "One Click Sharing",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/pieces-copilot",
+                    "label": "Pieces Copilot",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/search-modes",
+                    "label": "Search Modes",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/transforming-snippets",
+                    "label": "Snippet Transformations",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/user-settings",
+                    "label": "User Settings",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "features/workflow-activity",
+                    "label": "Workflow Activity",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "✨ Highlights & Benefits",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+                    "label": "Connecting to a Remote Pieces OS Instance",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/in-project-snippet-discovery",
+                    "label": "In-Project Snippet Discovery",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/privacy-security-data",
+                    "label": "Privacy & Security",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+                    "label": "Sync Across Devices with GitHub",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/saving-useful-developer-materials",
+                    "label": "Save Developer Materials",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "product-highlights-and-benefits/saving-screenshots",
+                    "label": "Save Screenshots & Extract Code",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "📚 Use Cases",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "use-cases/countless-google-searches",
+                    "label": "Reduce Endless Google Searching",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use-cases/onboard-new-developers",
+                    "label": "Onboard New Developers",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "use-cases/resurfacing-additional-context",
+                    "label": "Resurface Additional Context",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "🌱 Resources",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "community"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "support"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "faq",
+                    "label": "FAQ",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-google-tag-manager": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "@gracefullight/docusaurus-plugin-vercel-analytics": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

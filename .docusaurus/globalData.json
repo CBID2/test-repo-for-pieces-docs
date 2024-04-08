@@ -1,0 +1,261 @@
+{
+  "docusaurus-plugin-google-tag-manager": {
+    "default": {
+      "containerId": "GTM-K8C6QWB",
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "community",
+              "path": "/community",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/azure-data-studio",
+              "path": "/extensions-plugins/azure-data-studio",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/chrome",
+              "path": "/extensions-plugins/chrome",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/edge",
+              "path": "/extensions-plugins/edge",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/firefox",
+              "path": "/extensions-plugins/firefox",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/jetbrains",
+              "path": "/extensions-plugins/jetbrains",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/jupyterlab",
+              "path": "/extensions-plugins/jupyterlab",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/obsidian",
+              "path": "/extensions-plugins/obsidian",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/teams",
+              "path": "/extensions-plugins/teams",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/visual-studio",
+              "path": "/extensions-plugins/visual-studio",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "extensions-plugins/vscode",
+              "path": "/extensions-plugins/vscode",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/faq",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/auto-enrichment",
+              "path": "/features/auto-enrichment",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/back-up-and-restore",
+              "path": "/features/back-up-and-restore",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/code-completion",
+              "path": "/features/code-completion",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/creation-and-generation",
+              "path": "/features/creation-and-generation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/global-search",
+              "path": "/features/global-search",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/keyboard-shortcuts",
+              "path": "/features/keyboard-shortcuts",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/managing-saved-materials",
+              "path": "/features/managing-saved-materials",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/one-click-snippet-sharing",
+              "path": "/features/one-click-snippet-sharing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/pieces-copilot",
+              "path": "/features/pieces-copilot",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/search-modes",
+              "path": "/features/search-modes",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/transforming-snippets",
+              "path": "/features/transforming-snippets",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/user-settings",
+              "path": "/features/user-settings",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "features/workflow-activity",
+              "path": "/features/workflow-activity",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/"
+            },
+            {
+              "id": "installation-getting-started/linux",
+              "path": "/installation-getting-started/linux",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "installation-getting-started/macos",
+              "path": "/installation-getting-started/macos",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "installation-getting-started/pieces-os",
+              "path": "/installation-getting-started/pieces-os"
+            },
+            {
+              "id": "installation-getting-started/what-am-i-installing",
+              "path": "/installation-getting-started/what-am-i-installing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "installation-getting-started/windows",
+              "path": "/installation-getting-started/windows",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "new-to-pieces/how-our-search-works",
+              "path": "/new-to-pieces/how-our-search-works"
+            },
+            {
+              "id": "privacy-policy",
+              "path": "/privacy-policy"
+            },
+            {
+              "id": "product-highlights-and-benefits/collections",
+              "path": "/product-highlights-and-benefits/collections"
+            },
+            {
+              "id": "product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+              "path": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-highlights-and-benefits/in-project-snippet-discovery",
+              "path": "/product-highlights-and-benefits/in-project-snippet-discovery",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-highlights-and-benefits/privacy-security-data",
+              "path": "/product-highlights-and-benefits/privacy-security-data",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-screenshots",
+              "path": "/product-highlights-and-benefits/saving-screenshots",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-to-and-from-github-gists",
+              "path": "/product-highlights-and-benefits/saving-to-and-from-github-gists"
+            },
+            {
+              "id": "product-highlights-and-benefits/saving-useful-developer-materials",
+              "path": "/product-highlights-and-benefits/saving-useful-developer-materials",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+              "path": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "resources",
+              "path": "/resources"
+            },
+            {
+              "id": "support",
+              "path": "/support",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "terms",
+              "path": "/terms"
+            },
+            {
+              "id": "use-cases/countless-google-searches",
+              "path": "/use-cases/countless-google-searches",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/onboard-new-developers",
+              "path": "/use-cases/onboard-new-developers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "use-cases/resurfacing-additional-context",
+              "path": "/use-cases/resurfacing-additional-context",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/installation-getting-started/what-am-i-installing",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

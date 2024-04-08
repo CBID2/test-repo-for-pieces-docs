@@ -1,0 +1,27 @@
+{
+  "id": "features/user-settings",
+  "title": "User Settings",
+  "description": "You can customize your experience while using Pieces for Developers with different combinations in the Settings menu.",
+  "source": "@site/docs/features/user-settings.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/user-settings",
+  "permalink": "/features/user-settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/user-settings.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User Settings",
+    "description": "You can customize your experience while using Pieces for Developers with different combinations in the Settings menu."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Transforming Snippets",
+    "permalink": "/features/transforming-snippets"
+  },
+  "next": {
+    "title": "Workflow Activity Stream",
+    "permalink": "/features/workflow-activity"
+  }
+}

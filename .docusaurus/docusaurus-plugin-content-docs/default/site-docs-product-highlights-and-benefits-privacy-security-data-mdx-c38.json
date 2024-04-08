@@ -1,0 +1,27 @@
+{
+  "id": "product-highlights-and-benefits/privacy-security-data",
+  "title": "Privacy, Security & Your Data",
+  "description": "Let's jump in and touch on privacy, data, cloud-based features, and our ML models.",
+  "source": "@site/docs/product-highlights-and-benefits/privacy-security-data.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/privacy-security-data",
+  "permalink": "/product-highlights-and-benefits/privacy-security-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/privacy-security-data.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Privacy, Security & Your Data",
+    "description": "Let's jump in and touch on privacy, data, cloud-based features, and our ML models."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "In-Project Snippet Discovery",
+    "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery"
+  },
+  "next": {
+    "title": "Sync Across Multiple Devices using GitHub",
+    "permalink": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github"
+  }
+}

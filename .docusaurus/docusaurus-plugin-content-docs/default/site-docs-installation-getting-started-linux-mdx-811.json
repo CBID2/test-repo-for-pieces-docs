@@ -1,0 +1,29 @@
+{
+  "id": "installation-getting-started/linux",
+  "title": "Getting Started with Pieces for Developers on Linux",
+  "description": "Learn how to install Pieces for Developers via Snapcraft or by using Shell/Bash commands on your Linux distro.",
+  "source": "@site/docs/installation-getting-started/linux.mdx",
+  "sourceDirName": "installation-getting-started",
+  "slug": "/installation-getting-started/linux",
+  "permalink": "/installation-getting-started/linux",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/linux.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started with Pieces for Developers on Linux",
+    "description": "Learn how to install Pieces for Developers via Snapcraft or by using Shell/Bash commands on your Linux distro.",
+    "next": "/extensions-plugins/chrome",
+    "nextTitle": "Pieces Chrome Plugin"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started with Pieces for Developers on Windows",
+    "permalink": "/installation-getting-started/windows"
+  },
+  "next": {
+    "title": "Pieces for Developers Chrome Extension",
+    "permalink": "/extensions-plugins/chrome"
+  }
+}

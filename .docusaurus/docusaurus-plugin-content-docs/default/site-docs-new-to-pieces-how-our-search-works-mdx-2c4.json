@@ -1,0 +1,18 @@
+{
+  "id": "new-to-pieces/how-our-search-works",
+  "title": "How Our Search and Sort Features Work",
+  "description": "Adjust Settings for Optimal Search Results",
+  "source": "@site/docs/new-to-pieces/how-our-search-works.mdx",
+  "sourceDirName": "new-to-pieces",
+  "slug": "/new-to-pieces/how-our-search-works",
+  "permalink": "/new-to-pieces/how-our-search-works",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/new-to-pieces/how-our-search-works.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "How Our Search and Sort Features Work",
+    "Description": "Pieces for Developers offers three ways to search within the Desktop App in order to quickly find what you need."
+  }
+}

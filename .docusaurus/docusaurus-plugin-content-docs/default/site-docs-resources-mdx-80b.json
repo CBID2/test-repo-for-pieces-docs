@@ -1,0 +1,18 @@
+{
+  "id": "resources",
+  "title": "Documentation & Resources",
+  "description": "Links to downloads, resources, and plugins with other information on Pieces for Developers",
+  "source": "@site/docs/resources.mdx",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/resources.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Documentation & Resources",
+    "description": "Links to downloads, resources, and plugins with other information on Pieces for Developers"
+  }
+}

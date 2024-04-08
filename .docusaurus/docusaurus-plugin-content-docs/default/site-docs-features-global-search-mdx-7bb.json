@@ -1,0 +1,27 @@
+{
+  "id": "features/global-search",
+  "title": "Global Search",
+  "description": "Use Global Search to discover saved snippets based on the problems they solve without mentioning the language or code syntax.",
+  "source": "@site/docs/features/global-search.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/global-search",
+  "permalink": "/features/global-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/global-search.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Global Search",
+    "description": "Use Global Search to discover saved snippets based on the problems they solve without mentioning the language or code syntax."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Snippet Creation and Generation",
+    "permalink": "/features/creation-and-generation"
+  },
+  "next": {
+    "title": "Keyboard Shortcuts",
+    "permalink": "/features/keyboard-shortcuts"
+  }
+}

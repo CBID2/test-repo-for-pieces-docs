@@ -1,0 +1,27 @@
+{
+  "id": "features/managing-saved-materials",
+  "title": "Managing Saved Materials",
+  "description": "Once you save a material, you can edit, rename, reclassify, and modify metadata to adjust it over time so you stay organized.",
+  "source": "@site/docs/features/managing-saved-materials.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/managing-saved-materials",
+  "permalink": "/features/managing-saved-materials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/managing-saved-materials.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Managing Saved Materials",
+    "description": "Once you save a material, you can edit, rename, reclassify, and modify metadata to adjust it over time so you stay organized."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Keyboard Shortcuts",
+    "permalink": "/features/keyboard-shortcuts"
+  },
+  "next": {
+    "title": "One-Click Snippet Sharing",
+    "permalink": "/features/one-click-snippet-sharing"
+  }
+}

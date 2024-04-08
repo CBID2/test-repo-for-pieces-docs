@@ -1,0 +1,27 @@
+{
+  "id": "features/pieces-copilot",
+  "title": "Pieces Copilot",
+  "description": "Describe code and the Pieces Copilot will generate it for you, or ask qGPT questions about code you have already saved.",
+  "source": "@site/docs/features/pieces-copilot.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/pieces-copilot",
+  "permalink": "/features/pieces-copilot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/pieces-copilot.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces Copilot",
+    "description": "Describe code and the Pieces Copilot will generate it for you, or ask qGPT questions about code you have already saved."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "One-Click Snippet Sharing",
+    "permalink": "/features/one-click-snippet-sharing"
+  },
+  "next": {
+    "title": "Search Modes",
+    "permalink": "/features/search-modes"
+  }
+}

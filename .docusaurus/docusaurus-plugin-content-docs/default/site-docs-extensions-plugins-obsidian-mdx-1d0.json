@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/obsidian",
+  "title": "Pieces for Developers Obsidian Plugin",
+  "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Obsidian Plugin.",
+  "source": "@site/docs/extensions-plugins/obsidian.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/obsidian",
+  "permalink": "/extensions-plugins/obsidian",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/obsidian.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Obsidian Plugin",
+    "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Obsidian Plugin."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Azure Data Studio Extension",
+    "permalink": "/extensions-plugins/azure-data-studio"
+  },
+  "next": {
+    "title": "Pieces for Developers JupyterLab Extension",
+    "permalink": "/extensions-plugins/jupyterlab"
+  }
+}

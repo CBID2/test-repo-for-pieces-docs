@@ -1,0 +1,27 @@
+{
+  "id": "features/search-modes",
+  "title": "Search Modes",
+  "description": "Use different search modes to accurately search and find the code snippets that you are looking for.",
+  "source": "@site/docs/features/search-modes.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/search-modes",
+  "permalink": "/features/search-modes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/search-modes.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Search Modes",
+    "description": "Use different search modes to accurately search and find the code snippets that you are looking for."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces Copilot",
+    "permalink": "/features/pieces-copilot"
+  },
+  "next": {
+    "title": "Transforming Snippets",
+    "permalink": "/features/transforming-snippets"
+  }
+}

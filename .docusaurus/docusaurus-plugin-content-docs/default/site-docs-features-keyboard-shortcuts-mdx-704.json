@@ -1,0 +1,27 @@
+{
+  "id": "features/keyboard-shortcuts",
+  "title": "Keyboard Shortcuts",
+  "description": "View all shortcuts available in the Pieces for Developers Desktop App.",
+  "source": "@site/docs/features/keyboard-shortcuts.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/keyboard-shortcuts",
+  "permalink": "/features/keyboard-shortcuts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/keyboard-shortcuts.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Keyboard Shortcuts",
+    "description": "View all shortcuts available in the Pieces for Developers Desktop App."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Global Search",
+    "permalink": "/features/global-search"
+  },
+  "next": {
+    "title": "Managing Saved Materials",
+    "permalink": "/features/managing-saved-materials"
+  }
+}

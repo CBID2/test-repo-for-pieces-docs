@@ -1,0 +1,27 @@
+{
+  "id": "installation-getting-started/windows",
+  "title": "Getting Started with Pieces for Developers on Windows",
+  "description": "Learn how to download, install, and confirm your connected applications on Windows - it only takes 3 steps!",
+  "source": "@site/docs/installation-getting-started/windows.mdx",
+  "sourceDirName": "installation-getting-started",
+  "slug": "/installation-getting-started/windows",
+  "permalink": "/installation-getting-started/windows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/windows.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started with Pieces for Developers on Windows",
+    "description": "Learn how to download, install, and confirm your connected applications on Windows - it only takes 3 steps!"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started with Pieces for Developers on macOS",
+    "permalink": "/installation-getting-started/macos"
+  },
+  "next": {
+    "title": "Getting Started with Pieces for Developers on Linux",
+    "permalink": "/installation-getting-started/linux"
+  }
+}

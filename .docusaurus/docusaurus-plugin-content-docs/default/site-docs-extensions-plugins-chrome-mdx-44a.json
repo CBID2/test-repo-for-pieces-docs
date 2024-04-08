@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/chrome",
+  "title": "Pieces for Developers Chrome Extension",
+  "description": "Learn about the Pieces Chrome Extension, how it functions, and what all you can do with this powerful extension in Chrome.",
+  "source": "@site/docs/extensions-plugins/chrome.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/chrome",
+  "permalink": "/extensions-plugins/chrome",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/chrome.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Chrome Extension",
+    "description": "Learn about the Pieces Chrome Extension, how it functions, and what all you can do with this powerful extension in Chrome."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started with Pieces for Developers on Linux",
+    "permalink": "/installation-getting-started/linux"
+  },
+  "next": {
+    "title": "Pieces for Developers Edge Addon",
+    "permalink": "/extensions-plugins/edge"
+  }
+}

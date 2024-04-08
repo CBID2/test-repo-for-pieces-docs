@@ -1,0 +1,27 @@
+{
+  "id": "use-cases/countless-google-searches",
+  "title": "Countless Google Searches",
+  "description": "Stop the constant switching and searching for the same thing twice with Pieces for Developers.",
+  "source": "@site/docs/use-cases/countless-google-searches.mdx",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/countless-google-searches",
+  "permalink": "/use-cases/countless-google-searches",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/countless-google-searches.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Countless Google Searches",
+    "description": "Stop the constant switching and searching for the same thing twice with Pieces for Developers."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Saving Screenshots and Optical Code Recognition",
+    "permalink": "/product-highlights-and-benefits/saving-screenshots"
+  },
+  "next": {
+    "title": "Solving Onboarding & Reducing Technical Debt",
+    "permalink": "/use-cases/onboard-new-developers"
+  }
+}

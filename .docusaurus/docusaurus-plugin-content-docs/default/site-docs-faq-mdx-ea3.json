@@ -1,0 +1,23 @@
+{
+  "id": "faq",
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to questions about using Pieces for Developers and its many functions.",
+  "source": "@site/docs/faq.mdx",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/faq.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to questions about using Pieces for Developers and its many functions."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/support"
+  }
+}

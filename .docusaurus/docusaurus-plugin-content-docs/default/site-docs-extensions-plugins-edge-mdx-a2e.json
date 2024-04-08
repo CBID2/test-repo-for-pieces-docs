@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/edge",
+  "title": "Pieces for Developers Edge Addon",
+  "description": "Troubleshoot issues before reaching out to Pieces support to get assistance with the Pieces for Developers Edge Addon.",
+  "source": "@site/docs/extensions-plugins/edge.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/edge",
+  "permalink": "/extensions-plugins/edge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/edge.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Edge Addon",
+    "description": "Troubleshoot issues before reaching out to Pieces support to get assistance with the Pieces for Developers Edge Addon."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Chrome Extension",
+    "permalink": "/extensions-plugins/chrome"
+  },
+  "next": {
+    "title": "Pieces Firefox Addon",
+    "permalink": "/extensions-plugins/firefox"
+  }
+}

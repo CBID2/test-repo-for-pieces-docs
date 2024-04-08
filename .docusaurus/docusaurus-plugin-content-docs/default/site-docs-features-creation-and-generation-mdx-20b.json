@@ -1,0 +1,27 @@
+{
+  "id": "features/creation-and-generation",
+  "title": "Snippet Creation and Generation",
+  "description": "Pieces for Developers makes it simple to add materials as you find them. But, sometimes the best solution is written or generated code instead of a more general solution.",
+  "source": "@site/docs/features/creation-and-generation.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/creation-and-generation",
+  "permalink": "/features/creation-and-generation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/creation-and-generation.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Snippet Creation and Generation",
+    "description": "Pieces for Developers makes it simple to add materials as you find them. But, sometimes the best solution is written or generated code instead of a more general solution."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Code Completion in your IDE",
+    "permalink": "/features/code-completion"
+  },
+  "next": {
+    "title": "Global Search",
+    "permalink": "/features/global-search"
+  }
+}

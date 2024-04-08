@@ -1,0 +1,27 @@
+{
+  "id": "features/back-up-and-restore",
+  "title": "Back Up and Restore",
+  "description": "Learn how to back up and restore your Pieces Database without losing your code snippets.",
+  "source": "@site/docs/features/back-up-and-restore.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/back-up-and-restore",
+  "permalink": "/features/back-up-and-restore",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/back-up-and-restore.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Back Up and Restore",
+    "description": "Learn how to back up and restore your Pieces Database without losing your code snippets."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Auto-Enrichment of Developer Materials",
+    "permalink": "/features/auto-enrichment"
+  },
+  "next": {
+    "title": "Code Completion in your IDE",
+    "permalink": "/features/code-completion"
+  }
+}

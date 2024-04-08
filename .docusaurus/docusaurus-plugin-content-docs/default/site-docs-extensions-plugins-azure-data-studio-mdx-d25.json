@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/azure-data-studio",
+  "title": "Pieces for Developers Azure Data Studio Extension",
+  "description": "Learn about the Pieces Azure Data Studio Extension, how it functions, and all you can do with this powerful extension in ADS from Microsoft.",
+  "source": "@site/docs/extensions-plugins/azure-data-studio.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/azure-data-studio",
+  "permalink": "/extensions-plugins/azure-data-studio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/azure-data-studio.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Azure Data Studio Extension",
+    "description": "Learn about the Pieces Azure Data Studio Extension, how it functions, and all you can do with this powerful extension in ADS from Microsoft."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Visual Studio Extension",
+    "permalink": "/extensions-plugins/visual-studio"
+  },
+  "next": {
+    "title": "Pieces for Developers Obsidian Plugin",
+    "permalink": "/extensions-plugins/obsidian"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "/__docusaurus/debug-b14": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/__docusaurus/debug/config-428": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/__docusaurus/debug/content-679": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-2f8": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/__docusaurus/debug/metadata-3f6": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/__docusaurus/debug/registry-5ef": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/__docusaurus/debug/routes-fb7": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-96-a-f3e"
+    }
+  },
+  "/search-7bb": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-30-b-669"
+    }
+  },
+  "/-586": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---f-51-737"
+    }
+  },
+  "/-4ae": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---935-fcf"
+  },
+  "/-e9d": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/community-394": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---community-2-c-2-174"
+  },
+  "/extensions-plugins/azure-data-studio-f35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-azure-data-studiod-25-5f2"
+  },
+  "/extensions-plugins/chrome-b01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-chrome-44-a-cd4"
+  },
+  "/extensions-plugins/edge-563": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-edgea-2-e-06c"
+  },
+  "/extensions-plugins/firefox-b76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-firefox-306-f06"
+  },
+  "/extensions-plugins/jetbrains-732": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-jetbrains-840-f92"
+  },
+  "/extensions-plugins/jupyterlab-827": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-jupyterlab-6-b-4-10f"
+  },
+  "/extensions-plugins/obsidian-8d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-obsidian-1-d-0-276"
+  },
+  "/extensions-plugins/teams-370": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-teamsd-4-f-2d7"
+  },
+  "/extensions-plugins/visual-studio-00d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-visual-studio-564-09b"
+  },
+  "/extensions-plugins/vscode-4b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extensions-plugins-vscode-212-220"
+  },
+  "/faq-07f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faqea-3-da7"
+  },
+  "/features/auto-enrichment-060": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-auto-enrichment-1-fb-4f0"
+  },
+  "/features/back-up-and-restore-9de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-back-up-and-restore-272-dfc"
+  },
+  "/features/code-completion-c9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-code-completiona-63-9c5"
+  },
+  "/features/creation-and-generation-2c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-creation-and-generation-20-b-bf9"
+  },
+  "/features/global-search-b54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-global-search-7-bb-333"
+  },
+  "/features/keyboard-shortcuts-727": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-keyboard-shortcuts-704-008"
+  },
+  "/features/managing-saved-materials-8f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-managing-saved-materials-5-f-4-529"
+  },
+  "/features/one-click-snippet-sharing-f90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-one-click-snippet-sharing-41-b-aee"
+  },
+  "/features/pieces-copilot-90a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-pieces-copilotaa-2-68d"
+  },
+  "/features/search-modes-b2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-search-modesb-0-e-3bb"
+  },
+  "/features/transforming-snippets-2f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-transforming-snippetsa-11-d18"
+  },
+  "/features/user-settings-20f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-user-settings-1-b-2-c82"
+  },
+  "/features/workflow-activity-7f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---features-workflow-activity-5-e-8-8eb"
+  },
+  "/installation-getting-started/linux-935": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-getting-started-linux-811-306"
+  },
+  "/installation-getting-started/macos-d64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-getting-started-macos-804-28b"
+  },
+  "/installation-getting-started/pieces-os-9ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-getting-started-pieces-osf-9-f-9b3"
+  },
+  "/installation-getting-started/what-am-i-installing-227": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-getting-started-what-am-i-installingf-6-a-581"
+  },
+  "/installation-getting-started/windows-2da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-getting-started-windowsb-92-b2d"
+  },
+  "/new-to-pieces/how-our-search-works-2ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---new-to-pieces-how-our-search-works-2-c-4-150"
+  },
+  "/privacy-policy-cb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---privacy-policyd-1-b-76f"
+  },
+  "/product-highlights-and-benefits/collections-99e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-collections-135-009"
+  },
+  "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance-452": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-connecting-to-a-remote-pieces-os-instance-92-d-c8a"
+  },
+  "/product-highlights-and-benefits/in-project-snippet-discovery-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-in-project-snippet-discoveryf-15-000"
+  },
+  "/product-highlights-and-benefits/privacy-security-data-b3f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-privacy-security-datac-38-d42"
+  },
+  "/product-highlights-and-benefits/saving-screenshots-92a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-saving-screenshots-1-a-9-1fa"
+  },
+  "/product-highlights-and-benefits/saving-to-and-from-github-gists-a1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-saving-to-and-from-github-gistsae-8-e65"
+  },
+  "/product-highlights-and-benefits/saving-useful-developer-materials-753": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-saving-useful-developer-materials-0-c-8-ff4"
+  },
+  "/product-highlights-and-benefits/sync-across-multiple-devices-using-github-1e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---product-highlights-and-benefits-sync-across-multiple-devices-using-githubde-1-534"
+  },
+  "/resources-33c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resources-80-b-a90"
+  },
+  "/support-cac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---supporta-94-2e1"
+  },
+  "/terms-7ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---termsbf-5-608"
+  },
+  "/use-cases/countless-google-searches-405": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-countless-google-searches-4-b-2-f61"
+  },
+  "/use-cases/onboard-new-developers-fd2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-onboard-new-developerscb-8-6a2"
+  },
+  "/use-cases/resurfacing-additional-context-aaf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---use-cases-resurfacing-additional-context-1-a-7-2a7"
+  },
+  "/-b91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---4-ed-c51"
+  }
+}

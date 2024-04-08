@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/jupyterlab",
+  "title": "Pieces for Developers JupyterLab Extension",
+  "description": "Learn how to install the Pieces for JupyterLab Extension via the PYPI Manager, Pip, and Conda.",
+  "source": "@site/docs/extensions-plugins/jupyterlab.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/jupyterlab",
+  "permalink": "/extensions-plugins/jupyterlab",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/jupyterlab.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers JupyterLab Extension",
+    "description": "Learn how to install the Pieces for JupyterLab Extension via the PYPI Manager, Pip, and Conda."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Obsidian Plugin",
+    "permalink": "/extensions-plugins/obsidian"
+  },
+  "next": {
+    "title": "Pieces Microsoft Teams App",
+    "permalink": "/extensions-plugins/teams"
+  }
+}

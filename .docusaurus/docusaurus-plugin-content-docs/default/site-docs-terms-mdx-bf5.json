@@ -1,0 +1,18 @@
+{
+  "id": "terms",
+  "title": "Terms of Service",
+  "description": "View our terms of service here to read about rules and informed use of services.",
+  "source": "@site/docs/terms.mdx",
+  "sourceDirName": ".",
+  "slug": "/terms",
+  "permalink": "/terms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/terms.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Terms of Service",
+    "description": "View our terms of service here to read about rules and informed use of services."
+  }
+}

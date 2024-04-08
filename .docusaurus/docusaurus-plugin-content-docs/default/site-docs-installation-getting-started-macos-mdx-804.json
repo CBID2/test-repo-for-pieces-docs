@@ -1,0 +1,27 @@
+{
+  "id": "installation-getting-started/macos",
+  "title": "Getting Started with Pieces for Developers on macOS",
+  "description": "Learn how to download, install, and confirm your connected applications on macOS to start using Pieces for Developers",
+  "source": "@site/docs/installation-getting-started/macos.mdx",
+  "sourceDirName": "installation-getting-started",
+  "slug": "/installation-getting-started/macos",
+  "permalink": "/installation-getting-started/macos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/macos.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started with Pieces for Developers on macOS",
+    "description": "Learn how to download, install, and confirm your connected applications on macOS to start using Pieces for Developers"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/installation-getting-started/what-am-i-installing"
+  },
+  "next": {
+    "title": "Getting Started with Pieces for Developers on Windows",
+    "permalink": "/installation-getting-started/windows"
+  }
+}

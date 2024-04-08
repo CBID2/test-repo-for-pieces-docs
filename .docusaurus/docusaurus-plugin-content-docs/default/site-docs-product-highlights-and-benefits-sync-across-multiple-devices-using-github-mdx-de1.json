@@ -1,0 +1,27 @@
+{
+  "id": "product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+  "title": "Sync Across Multiple Devices using GitHub",
+  "description": "Follow this guide to get started with manually syncing your code snippets on multiple devices, so you always have them.",
+  "source": "@site/docs/product-highlights-and-benefits/sync-across-multiple-devices-using-github.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+  "permalink": "/product-highlights-and-benefits/sync-across-multiple-devices-using-github",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/sync-across-multiple-devices-using-github.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sync Across Multiple Devices using GitHub",
+    "description": "Follow this guide to get started with manually syncing your code snippets on multiple devices, so you always have them."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Privacy, Security & Your Data",
+    "permalink": "/product-highlights-and-benefits/privacy-security-data"
+  },
+  "next": {
+    "title": "Save Useful Developer Materials",
+    "permalink": "/product-highlights-and-benefits/saving-useful-developer-materials"
+  }
+}

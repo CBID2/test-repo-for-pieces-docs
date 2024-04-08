@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/vscode",
+  "title": "Pieces for Developers Visual Studio Code Extension",
+  "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers VS Code Extension.",
+  "source": "@site/docs/extensions-plugins/vscode.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/vscode",
+  "permalink": "/extensions-plugins/vscode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/vscode.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Visual Studio Code Extension",
+    "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers VS Code Extension."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers JetBrains Plugin",
+    "permalink": "/extensions-plugins/jetbrains"
+  },
+  "next": {
+    "title": "Pieces for Developers Visual Studio Extension",
+    "permalink": "/extensions-plugins/visual-studio"
+  }
+}

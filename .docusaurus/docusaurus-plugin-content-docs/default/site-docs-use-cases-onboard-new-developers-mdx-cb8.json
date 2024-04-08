@@ -1,0 +1,27 @@
+{
+  "id": "use-cases/onboard-new-developers",
+  "title": "Solving Onboarding & Reducing Technical Debt",
+  "description": "Utilize our On-Device Suggested Save and On-Device Pattern Engine to find and write code faster.",
+  "source": "@site/docs/use-cases/onboard-new-developers.mdx",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/onboard-new-developers",
+  "permalink": "/use-cases/onboard-new-developers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/onboard-new-developers.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solving Onboarding & Reducing Technical Debt",
+    "description": "Utilize our On-Device Suggested Save and On-Device Pattern Engine to find and write code faster."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Countless Google Searches",
+    "permalink": "/use-cases/countless-google-searches"
+  },
+  "next": {
+    "title": "Context in Collaborative Environments",
+    "permalink": "/use-cases/resurfacing-additional-context"
+  }
+}

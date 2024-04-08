@@ -1,0 +1,27 @@
+{
+  "id": "features/code-completion",
+  "title": "Code Completion in your IDE",
+  "description": "Use our code completion feature in your IDE to auto-complete code snippets from your own personal Pieces repository of developer materials.",
+  "source": "@site/docs/features/code-completion.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/code-completion",
+  "permalink": "/features/code-completion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/code-completion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Code Completion in your IDE",
+    "description": "Use our code completion feature in your IDE to auto-complete code snippets from your own personal Pieces repository of developer materials."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Back Up and Restore",
+    "permalink": "/features/back-up-and-restore"
+  },
+  "next": {
+    "title": "Snippet Creation and Generation",
+    "permalink": "/features/creation-and-generation"
+  }
+}

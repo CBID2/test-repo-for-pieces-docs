@@ -1,0 +1,27 @@
+{
+  "id": "product-highlights-and-benefits/in-project-snippet-discovery",
+  "title": "In-Project Snippet Discovery",
+  "description": "The first developer tool in the world to ingest an entire code base and return hyper-specific, highly reusable code snippets entirely offline and on-device.",
+  "source": "@site/docs/product-highlights-and-benefits/in-project-snippet-discovery.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/in-project-snippet-discovery",
+  "permalink": "/product-highlights-and-benefits/in-project-snippet-discovery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/in-project-snippet-discovery.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "In-Project Snippet Discovery",
+    "description": "The first developer tool in the world to ingest an entire code base and return hyper-specific, highly reusable code snippets entirely offline and on-device."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Connecting to a Remote Pieces OS Instance",
+    "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance"
+  },
+  "next": {
+    "title": "Privacy, Security & Your Data",
+    "permalink": "/product-highlights-and-benefits/privacy-security-data"
+  }
+}

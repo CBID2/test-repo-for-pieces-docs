@@ -1,0 +1,20 @@
+{
+  "id": "installation-getting-started/pieces-os",
+  "title": "Understanding Pieces OS",
+  "description": "Delve into the engine that powers Pieces for Developers - Pieces OS. Explore how it manages data processing and machine learning models to enhance your development workflow.",
+  "source": "@site/docs/installation-getting-started/pieces-os.mdx",
+  "sourceDirName": "installation-getting-started",
+  "slug": "/installation-getting-started/pieces-os",
+  "permalink": "/installation-getting-started/pieces-os",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/installation-getting-started/pieces-os.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Understanding Pieces OS",
+    "description": "Delve into the engine that powers Pieces for Developers - Pieces OS. Explore how it manages data processing and machine learning models to enhance your development workflow.",
+    "next": "/extensions-plugins/chrome",
+    "nextTitle": "Check Out Our Chrome Plugin"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/visual-studio",
+  "title": "Pieces for Developers Visual Studio Extension",
+  "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Visual Studio Extension.",
+  "source": "@site/docs/extensions-plugins/visual-studio.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/visual-studio",
+  "permalink": "/extensions-plugins/visual-studio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/visual-studio.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces for Developers Visual Studio Extension",
+    "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Visual Studio Extension."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers Visual Studio Code Extension",
+    "permalink": "/extensions-plugins/vscode"
+  },
+  "next": {
+    "title": "Pieces for Developers Azure Data Studio Extension",
+    "permalink": "/extensions-plugins/azure-data-studio"
+  }
+}

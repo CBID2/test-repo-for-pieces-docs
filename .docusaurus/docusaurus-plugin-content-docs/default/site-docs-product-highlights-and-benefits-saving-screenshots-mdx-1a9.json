@@ -1,0 +1,27 @@
+{
+  "id": "product-highlights-and-benefits/saving-screenshots",
+  "title": "Saving Screenshots and Optical Code Recognition",
+  "description": "By saving media to the Pieces for Developers Desktop app, all of your screenshots and code can live side by side.",
+  "source": "@site/docs/product-highlights-and-benefits/saving-screenshots.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/saving-screenshots",
+  "permalink": "/product-highlights-and-benefits/saving-screenshots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/saving-screenshots.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Saving Screenshots and Optical Code Recognition",
+    "description": "By saving media to the Pieces for Developers Desktop app, all of your screenshots and code can live side by side."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Save Useful Developer Materials",
+    "permalink": "/product-highlights-and-benefits/saving-useful-developer-materials"
+  },
+  "next": {
+    "title": "Countless Google Searches",
+    "permalink": "/use-cases/countless-google-searches"
+  }
+}

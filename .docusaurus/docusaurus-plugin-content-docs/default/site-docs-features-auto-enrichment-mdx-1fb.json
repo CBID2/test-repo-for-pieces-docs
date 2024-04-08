@@ -1,0 +1,27 @@
+{
+  "id": "features/auto-enrichment",
+  "title": "Auto-Enrichment of Developer Materials",
+  "description": "Learn how Pieces for Developers uses ML and AI to enrich your code snippets with relevant context and metadata.",
+  "source": "@site/docs/features/auto-enrichment.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/auto-enrichment",
+  "permalink": "/features/auto-enrichment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/auto-enrichment.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Auto-Enrichment of Developer Materials",
+    "description": "Learn how Pieces for Developers uses ML and AI to enrich your code snippets with relevant context and metadata."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces Microsoft Teams App",
+    "permalink": "/extensions-plugins/teams"
+  },
+  "next": {
+    "title": "Back Up and Restore",
+    "permalink": "/features/back-up-and-restore"
+  }
+}

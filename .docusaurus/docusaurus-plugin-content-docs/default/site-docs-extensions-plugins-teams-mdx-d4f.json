@@ -1,0 +1,27 @@
+{
+  "id": "extensions-plugins/teams",
+  "title": "Pieces Microsoft Teams App",
+  "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Microsoft Teams App.",
+  "source": "@site/docs/extensions-plugins/teams.mdx",
+  "sourceDirName": "extensions-plugins",
+  "slug": "/extensions-plugins/teams",
+  "permalink": "/extensions-plugins/teams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/extensions-plugins/teams.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pieces Microsoft Teams App",
+    "description": "Troubleshoot issues or reach out to Pieces Support for assistance with the Pieces for Developers Microsoft Teams App."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pieces for Developers JupyterLab Extension",
+    "permalink": "/extensions-plugins/jupyterlab"
+  },
+  "next": {
+    "title": "Auto-Enrichment of Developer Materials",
+    "permalink": "/features/auto-enrichment"
+  }
+}

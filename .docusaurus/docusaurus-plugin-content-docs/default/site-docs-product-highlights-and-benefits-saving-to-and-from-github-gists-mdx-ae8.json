@@ -1,0 +1,18 @@
+{
+  "id": "product-highlights-and-benefits/saving-to-and-from-github-gists",
+  "title": "Sharing To & From GitHub Gists",
+  "description": "GitHub Gists are a great way to share code with a group of people for public visibility, and integrate your snippets with your GitHub repositories.",
+  "source": "@site/docs/product-highlights-and-benefits/saving-to-and-from-github-gists.mdx",
+  "sourceDirName": "product-highlights-and-benefits",
+  "slug": "/product-highlights-and-benefits/saving-to-and-from-github-gists",
+  "permalink": "/product-highlights-and-benefits/saving-to-and-from-github-gists",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/product-highlights-and-benefits/saving-to-and-from-github-gists.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sharing To & From GitHub Gists",
+    "description": "GitHub Gists are a great way to share code with a group of people for public visibility, and integrate your snippets with your GitHub repositories."
+  }
+}

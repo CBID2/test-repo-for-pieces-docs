@@ -1,0 +1,27 @@
+{
+  "id": "use-cases/resurfacing-additional-context",
+  "title": "Context in Collaborative Environments",
+  "description": "Keeping track of critical context - decision outcomes, architectures, implementation solutions, best practices, power tips, configs - is becoming harder than ever.",
+  "source": "@site/docs/use-cases/resurfacing-additional-context.mdx",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/resurfacing-additional-context",
+  "permalink": "/use-cases/resurfacing-additional-context",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/use-cases/resurfacing-additional-context.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Context in Collaborative Environments",
+    "description": "Keeping track of critical context - decision outcomes, architectures, implementation solutions, best practices, power tips, configs - is becoming harder than ever."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Solving Onboarding & Reducing Technical Debt",
+    "permalink": "/use-cases/onboard-new-developers"
+  },
+  "next": {
+    "title": "Community",
+    "permalink": "/community"
+  }
+}

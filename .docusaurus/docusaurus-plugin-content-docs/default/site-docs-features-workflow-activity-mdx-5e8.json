@@ -1,0 +1,27 @@
+{
+  "id": "features/workflow-activity",
+  "title": "Workflow Activity Stream",
+  "description": "Pick up where you left off and break through development bottlenecks faster with Workflow Activity Stream.",
+  "source": "@site/docs/features/workflow-activity.mdx",
+  "sourceDirName": "features",
+  "slug": "/features/workflow-activity",
+  "permalink": "/features/workflow-activity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pieces-app/documentation/tree/main/docs/features/workflow-activity.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Workflow Activity Stream",
+    "description": "Pick up where you left off and break through development bottlenecks faster with Workflow Activity Stream."
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Settings",
+    "permalink": "/features/user-settings"
+  },
+  "next": {
+    "title": "Connecting to a Remote Pieces OS Instance",
+    "permalink": "/product-highlights-and-benefits/connecting-to-a-remote-pieces-os-instance"
+  }
+}
